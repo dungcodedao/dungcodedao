@@ -6,9 +6,7 @@
   <h1>Hi, I'm Ngô Văn Dũng (Devdus) 👋</h1>
 
   <p>
-    <b>Android Mobile Developer · Hanoi, Vietnam 🇻🇳</b><br>
-    <i>Crafting smooth, high-performance Android apps with Kotlin & Jetpack Compose.<br>
-    Biến ý tưởng thành những ứng dụng di động mượt mà, tối ưu hiệu năng và trải nghiệm người dùng.</i>
+    <b>Android Mobile Developer · Hanoi, Vietnam 🇻🇳</b>
   </p>
 
   <!-- Social Badges & Contact -->
@@ -28,15 +26,6 @@
   </p>
 
 </div>
-
----
-
-### ⚡ Về mình / Quick Highlights
-
-- 📱 **Chuyên môn:** Phát triển ứng dụng Android Native chất lượng cao với **Kotlin**, **Jetpack Compose** và **Java**.
-- 🏗️ **Kiến trúc & Hiệu năng:** Áp dụng **Clean Architecture & MVVM**, xử lý bất đồng bộ mượt mà với **Coroutines & Flow**, tối ưu bộ nhớ và vòng đời ứng dụng.
-- ⚙️ **Hệ sinh thái Android:** Làm chủ Android Jetpack (**Room DB, Hilt DI, ViewModel, WorkManager, Navigation**), tích hợp REST API qua **Retrofit** và Cloud Backend (**Firebase, Supabase**).
-- 💬 **Sẵn sàng kết nối:** Luôn cởi mở trao đổi về các cơ hội nghề nghiệp **Android Developer / Software Engineer** và dự án Mobile mới!
 
 ---
 
