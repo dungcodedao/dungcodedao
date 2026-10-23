@@ -19,9 +19,6 @@
     <a href="https://github.com/dungcodedao" target="_blank">
       <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://play.google.com/store/apps/details?id=com.findmyphone.by.clap.whistle" target="_blank">
-      <img src="https://img.shields.io/badge/GOOGLE_PLAY-APPS-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" />
-    </a>
     <a href="mailto:ngovandung1552003@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
