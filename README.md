@@ -44,9 +44,6 @@
 | Project | Mô tả / Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **✨ Magic Slime** | App hiệu ứng Fluid/Slime 4D tương tác vật lý kèm âm thanh ASMR, đồ họa 60 FPS tối ưu pin | *Kotlin · Jetpack Compose · Hilt · Media3 · Foreground Service* | [Demo](https://devdus.lovable.app/) |
-| **🔍 Find Your Phone** | Ứng dụng tìm điện thoại bằng nhận diện âm thanh vỗ tay / huýt sáo, cảnh báo chống trộm | *AudioRecord DSP · Foreground Service · WakeLocks* | [Google Play](https://play.google.com/store/apps/details?id=com.findmyphone.by.clap.whistle) |
-| **🎬 PhimHay** | App xem phim Android Dark Cinematic, tìm kiếm Paging 3, trình phát ExoPlayer, Room offline | *Kotlin · Jetpack Compose · Clean Arch · Room · Supabase* | [Code](https://github.com/dungcodedao/PhimHay) · [Demo](https://drive.google.com/file/d/1I0Sfw2OPbdW7lvpEzl1auiabU9iW2pE0/view?usp=sharing) |
-| **🛒 EasyShop** | App thương mại điện tử: Firebase Auth, CRUD Firestore, giỏ hàng & thanh toán | *Kotlin · Jetpack Compose · MVVM · Firebase Firestore* | [Code](https://github.com/dungcodedao/EasyShop) · [Demo](https://drive.google.com/file/d/1ilCRAI5o9NtwzFcX_9cML1waptPamqNn/view?usp=sharing) |
 
 ➡️ **Khám phá thêm dự án & chi tiết kinh nghiệm tại:** [https://devdus.lovable.app/](https://devdus.lovable.app/)
 
