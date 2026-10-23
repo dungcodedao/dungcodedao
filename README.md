@@ -6,9 +6,9 @@
   <h1>Hi, I'm Ngô Văn Dũng (Devdus) 👋</h1>
 
   <p>
-    <b>Android Mobile Developer · Ho Chi Minh City, Vietnam 🇻🇳</b><br>
-    <i>Android Developer với đam mê xây dựng ứng dụng mobile chất lượng cao.<br>
-    Code sạch và UX tốt là chìa khóa để tạo ra sản phẩm người dùng yêu thích.</i>
+    <b>Android Mobile Developer · Hanoi, Vietnam 🇻🇳</b><br>
+    <i>Crafting smooth, high-performance Android apps with Kotlin & Jetpack Compose.<br>
+    Biến ý tưởng thành những ứng dụng di động mượt mà, tối ưu hiệu năng và trải nghiệm người dùng.</i>
   </p>
 
   <!-- Social Badges & Contact -->
