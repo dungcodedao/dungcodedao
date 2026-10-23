@@ -7,8 +7,7 @@
 
   <p>
     <b>Android Mobile Developer · Hanoi, Vietnam 🇻🇳</b><br>
-    <i>Crafting smooth, high-performance Android apps with Kotlin & Jetpack Compose.<br>
-    Biến ý tưởng thành những ứng dụng di động mượt mà, tối ưu hiệu năng và trải nghiệm người dùng.</i>
+    <i>Crafting smooth, high-performance Android apps with Kotlin & Jetpack Compose.<br></i>
   </p>
 
   <!-- Social Badges & Contact -->
