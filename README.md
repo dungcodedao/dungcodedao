@@ -81,7 +81,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungcodedao&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungcodedao&layout=compact&theme=tokyonight&hide_border=true&hide=python,html,shaderlab" alt="Top Languages" height="140" />
 </div>
 
 ---
