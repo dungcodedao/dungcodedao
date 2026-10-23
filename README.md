@@ -7,7 +7,8 @@
 
   <p>
     <b>Android Mobile Developer · Hanoi, Vietnam 🇻🇳</b><br>
-    <i>Crafting smooth, high-performance Android apps with Kotlin & Jetpack Compose.<br></i>
+    <i>Crafting smooth, high-performance Android apps with Kotlin & Jetpack Compose.<br>
+    Biến ý tưởng thành những ứng dụng di động mượt mà, tối ưu hiệu năng và trải nghiệm người dùng.</i>
   </p>
 
   <!-- Social Badges & Contact -->
@@ -32,10 +33,10 @@
 
 ### ⚡ Về mình / Quick Highlights
 
-- 📱 **Chuyên môn chính:** Phát triển ứng dụng Android Native hiệu năng cao với **Kotlin**, **Jetpack Compose** và **Clean Architecture / MVVM**.
-- 🚀 **Kinh nghiệm thực chiến:** Thành thạo background services (Foreground Service, Audio DSP, WakeLocks), tối ưu hóa luồng dữ liệu mượt mà 60 FPS và quản lý vòng đời ứng dụng.
-- 🎮 **Sở thích công nghệ:** Lập trình Game (Unity, C#), đồ họa tương tác và khám phá công nghệ mới.
-- 💬 **Sẵn sàng kết nối:** Luôn cởi mở thảo luận về các cơ hội hợp tác dự án Mobile và vị trí Software Engineer!
+- 📱 **Chuyên môn:** Phát triển ứng dụng Android Native chất lượng cao với **Kotlin**, **Jetpack Compose** và **Java**.
+- 🏗️ **Kiến trúc & Hiệu năng:** Áp dụng **Clean Architecture & MVVM**, xử lý bất đồng bộ mượt mà với **Coroutines & Flow**, tối ưu bộ nhớ và vòng đời ứng dụng.
+- ⚙️ **Hệ sinh thái Android:** Làm chủ Android Jetpack (**Room DB, Hilt DI, ViewModel, WorkManager, Navigation**), tích hợp REST API qua **Retrofit** và Cloud Backend (**Firebase, Supabase**).
+- 💬 **Sẵn sàng kết nối:** Luôn cởi mở trao đổi về các cơ hội nghề nghiệp **Android Developer / Software Engineer** và dự án Mobile mới!
 
 ---
 
@@ -43,7 +44,7 @@
 
 | Project | Mô tả / Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **✨ Magic Slime** | App hiệu ứng Fluid/Slime 4D tương tác vật lý kèm âm thanh ASMR, đồ họa 60 FPS tối ưu pin | *Kotlin · Jetpack Compose · Hilt · Media3 · Foreground Service* | [Demo](https://devdus.lovable.app/) |
+| **✨ Magic Slime** | App hình nền động 4D cho Android: mô phỏng hiệu ứng Fluid/Slime vật lý, xử lý đa luồng mượt mà, tối ưu pin và dịch vụ nền (Foreground Service) | *Kotlin · Jetpack Compose · Hilt · Media3 · Foreground Service* | [Demo](https://devdus.lovable.app/) |
 
 ➡️ **Khám phá thêm dự án & chi tiết kinh nghiệm tại:** [https://devdus.lovable.app/](https://devdus.lovable.app/)
 
@@ -55,12 +56,9 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <!-- Android & Game -->
+  <!-- Android & UI -->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Native" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <!-- Architecture & Data -->
   <img src="https://img.shields.io/badge/Room_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB" />
   <img src="https://img.shields.io/badge/Retrofit-336699?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
