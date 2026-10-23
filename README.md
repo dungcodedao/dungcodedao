@@ -6,12 +6,12 @@
   <h1>Hi, I'm Ngô Văn Dũng (Devdus) 👋</h1>
 
   <p>
-    <b>Software Developer · Vietnam 🇻🇳</b><br>
-    <i>Building modern web applications & practical digital products.<br>
-    Xây dựng sản phẩm web hiện đại và ứng dụng thực tế.</i>
+    <b>Android Mobile Developer · Ho Chi Minh City, Vietnam 🇻🇳</b><br>
+    <i>Android Developer với đam mê xây dựng ứng dụng mobile chất lượng cao.<br>
+    Code sạch và UX tốt là chìa khóa để tạo ra sản phẩm người dùng yêu thích.</i>
   </p>
 
-  <!-- Social Badges & Links -->
+  <!-- Social Badges & Contact -->
   <p>
     <a href="https://devdus.lovable.app/" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -19,8 +19,8 @@
     <a href="https://github.com/dungcodedao" target="_blank">
       <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://facebook.com" target="_blank">
-      <img src="https://img.shields.io/badge/FACEBOOK-FOLLOW-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <a href="https://play.google.com/store/apps/details?id=com.findmyphone.by.clap.whistle" target="_blank">
+      <img src="https://img.shields.io/badge/GOOGLE_PLAY-APPS-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" />
     </a>
     <a href="mailto:ngovandung1552003@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -33,9 +33,9 @@
 
 ### 🇻🇳 Giới thiệu / About
 
-**VN** Chào mọi người! Mình là **Dũng (Devdus)**. Mình đam mê phát triển sản phẩm web, xây dựng trải nghiệm người dùng tối ưu và biến những ý tưởng sáng tạo thành sản phẩm thực tế có giá trị.
+**VN** Mình là **Ngô Văn Dũng (Devdus)**, một **Android Mobile Developer** tập trung phát triển các ứng dụng di động hiệu năng cao với **Kotlin** và **Jetpack Compose**. Mình chú trọng vào kiến trúc phần mềm sạch (**MVVM / Clean Architecture**), tối ưu hóa trải nghiệm người dùng mượt mà và xử lý background service ổn định.
 
-**GB** Hi everyone! I'm **Dung (Devdus)**, a software developer passionate about crafting modern web applications, optimizing user experiences, and turning creative ideas into impactful products.
+**GB** I'm **Ngo Van Dung (Devdus)**, an **Android Mobile Developer** focused on crafting high-performance mobile apps using **Kotlin** and **Jetpack Compose**. Passionate about **Clean Architecture / MVVM**, seamless user experience, and robust background services.
 
 ---
 
@@ -43,29 +43,37 @@
 
 | Project | Mô tả / Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Devdus Portfolio** | Không gian cá nhân giới thiệu các sản phẩm, kỹ năng và hành trình lập trình | *React · TailwindCSS · AI* | [Live](https://devdus.lovable.app/) |
-| **Dự án 2** | *Mô tả ngắn gọn về tính năng nổi bật của dự án bạn tâm đắc nhất* | *Next.js · Node.js* | [Live](#) · [Code](#) |
-| **Dự án 3** | *Mô tả ngắn gọn về tính năng nổi bật của dự án thứ ba* | *TypeScript · API* | [Code](#) |
+| **✨ Magic Slime** | App hiệu ứng Fluid/Slime 4D tương tác vật lý kèm âm thanh ASMR, đồ họa 60 FPS tối ưu pin | *Kotlin · Jetpack Compose · Hilt · Media3 · Foreground Service* | [Demo](https://devdus.lovable.app/) |
+| **🔍 Find Your Phone** | Ứng dụng tìm điện thoại bằng nhận diện âm thanh vỗ tay / huýt sáo, cảnh báo chống trộm | *AudioRecord DSP · Foreground Service · WakeLocks* | [Google Play](https://play.google.com/store/apps/details?id=com.findmyphone.by.clap.whistle) |
+| **🎬 PhimHay** | App xem phim Android Dark Cinematic, tìm kiếm Paging 3, trình phát ExoPlayer, Room offline | *Kotlin · Jetpack Compose · Clean Arch · Room · Supabase* | [Code](https://github.com/dungcodedao/PhimHay) · [Demo](https://drive.google.com/file/d/1I0Sfw2OPbdW7lvpEzl1auiabU9iW2pE0/view?usp=sharing) |
+| **🛒 EasyShop** | App thương mại điện tử: Firebase Auth, CRUD Firestore, giỏ hàng & thanh toán | *Kotlin · Jetpack Compose · MVVM · Firebase Firestore* | [Code](https://github.com/dungcodedao/EasyShop) · [Demo](https://drive.google.com/file/d/1ilCRAI5o9NtwzFcX_9cML1waptPamqNn/view?usp=sharing) |
 
-➡️ **Khám phá thêm các dự án tại / See more at portfolio:** [https://devdus.lovable.app/](https://devdus.lovable.app/)
+➡️ **Khám phá thêm dự án & chi tiết kinh nghiệm tại:** [https://devdus.lovable.app/](https://devdus.lovable.app/)
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Kỹ năng
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <!-- Android & UI -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Native" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <!-- Architecture & Data -->
+  <img src="https://img.shields.io/badge/Room_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB" />
+  <img src="https://img.shields.io/badge/Retrofit-336699?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
+  <!-- Cloud & Tools -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 <div align="center">
-  <p><i>Cảm ơn bạn đã ghé thăm profile của mình! ✨</i></p>
+  <p><i>Cảm ơn bạn đã ghé thăm GitHub profile của mình! Đừng ngần ngại kết nối cùng mình nhé. ✨</i></p>
 </div>
